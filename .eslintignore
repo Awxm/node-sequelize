@@ -1,0 +1,8 @@
+build/*.js
+src/assets
+public
+dist
+src/styles/iconfont/iconfont.js
+jsconfig.json
+.env.
+logs

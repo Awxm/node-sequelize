@@ -1,0 +1,211 @@
+[
+  {
+    "dictName": "疾病分期",
+    "dictCode": "diseaseStaging",
+    "items": [
+      {
+        "itemText": "Ⅰ期",
+        "itemValue": "Ⅰ"
+      },
+      {
+        "itemText": "Ⅱ期",
+        "itemValue": "Ⅱ"
+      },
+      {
+        "itemText": "Ⅲ期",
+        "itemValue": "Ⅲ"
+      },
+      {
+        "itemText": "Ⅳ期",
+        "itemValue": "Ⅳ"
+      }
+    ]
+  },
+  {
+    "dictName": "性别",
+    "dictCode": "secrecy",
+    "items": [
+      {
+        "itemText": "男",
+        "itemValue": "male"
+      },
+      {
+        "itemText": "女",
+        "itemValue": "female"
+      },
+      {
+        "itemText": "未知",
+        "itemValue": "secrecy"
+      }
+    ]
+  },
+  {
+    "dictName": "ECOG评分",
+    "dictCode": "ECOGScoreStandard",
+    "items": [
+      {
+        "itemText": "0分",
+        "itemValue": "zero"
+      },
+      {
+        "itemText": "1分",
+        "itemValue": "one"
+      },
+      {
+        "itemText": "2分",
+        "itemValue": "two"
+      },
+      {
+        "itemText": "3分",
+        "itemValue": "three"
+      },
+      {
+        "itemText": "4分",
+        "itemValue": "four"
+      },
+      {
+        "itemText": "5分",
+        "itemValue": "five"
+      }
+    ]
+  },
+  {
+    "dictName": "受试者报告",
+    "dictCode": "subjectReport",
+    "items": [
+      {
+        "itemText": "出院小结",
+        "itemValue": "dischargeAbstract"
+      },
+      {
+        "itemText": "病理报告",
+        "itemValue": "pathological"
+      },
+      {
+        "itemText": "基因检测报告",
+        "itemValue": "geneticTesting"
+      },
+      {
+        "itemText": "实验室报告",
+        "itemValue": "laboratory"
+      }
+    ]
+  },
+  {
+    "dictName": "医学审查状态",
+    "dictCode": "medicalReviewStatus",
+    "items": [
+      {
+        "itemText": "审核中",
+        "itemValue": "pending"
+      },
+      {
+        "itemText": "待补充资料",
+        "itemValue": "waiting"
+      },
+      {
+        "itemText": "审核拒绝",
+        "itemValue": "reject"
+      },
+      {
+        "itemText": "审核通过",
+        "itemValue": "pass"
+      }
+    ]
+  },
+  {
+    "dictName": "形式审核状态",
+    "dictCode": "formalAuditStatus",
+    "items": [
+      {
+        "itemText": "形审中",
+        "itemValue": "pending"
+      },
+      {
+        "itemText": "形审失败",
+        "itemValue": "invalid"
+      },
+      {
+        "itemText": "形审成功",
+        "itemValue": "complete"
+      }
+    ]
+  },
+  {
+    "dictName": "受试者状态",
+    "dictCode": "checkSubjectStatus",
+    "items": [
+      {
+        "itemText": "审核中",
+        "itemValue": "pending"
+      },
+      {
+        "itemText": "拒绝面诊",
+        "itemValue": "reject"
+      },
+      {
+        "itemText": "患者流失",
+        "itemValue": "invalid"
+      },
+      {
+        "itemText": "签署知情",
+        "itemValue": "sign"
+      },
+      {
+        "itemText": "已出组",
+        "itemValue": "out"
+      },
+      {
+        "itemText": "形审成功",
+        "itemValue": "complete"
+      }
+    ]
+  },
+  {
+    "dictName": "来源",
+    "dictCode": "source",
+    "items": [
+      { "itemText": "贴吧", "itemValue": "Abroad" },
+      { "itemText": "QQ群", "itemValue": "qqGroup " },
+      { "itemText": "医生介绍", "itemValue": "doctor" },
+      { "itemText": "朋友圈", "itemValue": "circleFriends" },
+      { "itemText": "QQ", "itemValue": "qq" },
+      { "itemText": "客服电话", "itemValue": "customerServiceCall" },
+      { "itemText": "内部业务员介绍", "itemValue": "internalSalesmanIntroduction" },
+      { "itemText": "头条", "itemValue": "headline" },
+      { "itemText": "知乎", "itemValue": "Zhihu" },
+      { "itemText": "病友推荐", "itemValue": "recommendedByPatients" },
+      { "itemText": "代理推荐", "itemValue": "recommendationByProxy" },
+      { "itemText": "竞品", "itemValue": "competitiveGoods" },
+      { "itemText": "其他", "itemValue": "other" }
+    ]
+  },
+  {
+    "dictName": "方案类型",
+    "dictCode": "therapeuticSchedule",
+    "items": [
+      { "itemText": "贴吧", "itemValue": "Abroad" },
+      { "itemText": "QQ群", "itemValue": "qqGroup " },
+      { "itemText": "医生介绍", "itemValue": "doctor" },
+      { "itemText": "朋友圈", "itemValue": "circleFriends" },
+      { "itemText": "QQ", "itemValue": "qq" },
+      { "itemText": "客服电话", "itemValue": "customerServiceCall" },
+      { "itemText": "内部业务员介绍", "itemValue": "internalSalesmanIntroduction" },
+      { "itemText": "头条", "itemValue": "headline" },
+      { "itemText": "知乎", "itemValue": "Zhihu" },
+      { "itemText": "病友推荐", "itemValue": "recommendedByPatients" },
+      { "itemText": "代理推荐", "itemValue": "recommendationByProxy" },
+      { "itemText": "竞品", "itemValue": "competitiveGoods" },
+      { "itemText": "其他", "itemValue": "other" }
+    ]
+  },
+  {
+    "dictName": "招募状态",
+    "dictCode": "studyStatus",
+    "items": [
+      { "itemText": "未开始", "itemValue": "pending" },
+      { "itemText": "招募中", "itemValue": "underway" },
+      { "itemText": "已结束", "itemValue": "finished" }
+    ]
+  }
+]
